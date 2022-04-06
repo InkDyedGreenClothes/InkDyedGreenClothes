@@ -1,14 +1,12 @@
 <!-- _navbar.md 上面的导航栏  -->
 
 * 我的平台
-
-  <!-- * [知行达摩院](https://www.zxdmy.com) -->
-  <!-- * [微信公众号](https://img.zxdmy.com/md/20210129164325.jpg) -->
-  <!-- * [CSDN](https://cxhit.blog.csdn.net/) -->
+  * [掘金](https://juejin.cn/user/2524134428904894/posts)
+  * [CSDN](https://blog.csdn.net/M_J_BlackCloud)
   * [Gitee](https://gitee.com/ZXAcademy)
   * [GitHub](https://github.com/ZXAcademy)
 
 
-* 联系我们
-  * [邮箱](contacts/email.md)
-  * [电话](zh-contacts/phone.md)
+<!-- * 联系我们 -->
+  <!-- * [邮箱](contacts/email.md) -->
+  <!-- * [电话](zh-contacts/phone.md) -->

@@ -1,6 +1,6 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 
-- 面试
-  - [1.创建项目](/interview/vue/base/1.%E5%88%9B%E5%BB%BA%E9%A1%B9%E7%9B%AE.md)
+- 学习记录
+  - [每日小知识](/learning/1.%E6%AF%8F%E6%97%A5%E5%B0%8F%E7%9F%A5%E8%AF%86.md)
 
 
