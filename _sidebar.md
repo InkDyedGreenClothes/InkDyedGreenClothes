@@ -1,6 +1,18 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 <!-- docsify serve InkDyedGreenClothes  启动项目 -->
-- 学习记录
-  - [每日小知识](/learning/1.%E6%AF%8F%E6%97%A5%E5%B0%8F%E7%9F%A5%E8%AF%86.md)
 
+* [每日小知识](/learning/html.md)
+  - [HTML](/learning/html.md)
+  - [CSS](/learning/css.md)
+  - [JS](/learning/js.md)
+  - [VUE](/learning/vue.md)
+  - [webpack](/learning/webpack.md)
+  - [框架对比](/learning/framework.md)
+  - [实操题](/learning/hands-on.md)
+  - [性能优化](/learning/performance.md)
 
+* [学习记录](/interview/js.md)
+  - [JS](/record/js.md)
+  - [typeScript](/record/typeScript.md)
+
+* 笔记

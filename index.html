@@ -19,7 +19,7 @@
     <script>
       window.$docsify = {
         name: "一纸信笺落了尘", // 标题
-        repo: "https://github.com/InkDyedGreenClothes", // git 右上图标
+        repo: "https://github.com/mayunlongtx", // git 右上图标
         loadSidebar: true, // 增加：自动加载侧边栏
         subMaxLevel: 4, // 生成目录的最大层级
         loadNavbar: true, // 加载导航栏
@@ -30,9 +30,8 @@
           paths: [], // or 'auto'
           placeholder: "输入内容检索",
           noData: "未检索到结果",
-          depth: 1, // 搜索标题的最大层级, 1 - 6
-          hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容 
-          
+          depth: 6, // 搜索标题的最大层级, 1 - 6
+          hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
         },
       };
     </script>
@@ -40,5 +39,7 @@
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     <!--搜索插件-->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    <!-- Production -->
+    <script src="//cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script>
   </body>
 </html>
