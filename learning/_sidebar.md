@@ -15,4 +15,6 @@
   - [JS](/record/js.md)
   - [typeScript](/record/typeScript.md)
 
-- 笔记
+- 学习笔记
+
+- 读书笔记
