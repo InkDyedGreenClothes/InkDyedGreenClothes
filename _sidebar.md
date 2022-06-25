@@ -13,6 +13,6 @@
 
 * [学习记录](/interview/js.md)
   - [JS](/record/js.md)
-  - [typeScript](/record/typeScript.md)
+  - [typeScript](/record/README.md)
 
 * 笔记
