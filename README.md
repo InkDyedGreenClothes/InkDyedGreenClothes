@@ -6,5 +6,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=mayunlongtx)
 
-![](https://github-readme-stats.vercel.app/api?username=mayunlongtx)
 
