@@ -1,4 +1,4 @@
-### Yoo, I'm Myl 👋
+### Yoo, I'm Myl 🐣 
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fmayunlongtx&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/mayunlongtx)
 [![掘金](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fjuejin%2F2524134428904894&query=count&color=282c34&label=%E6%8E%98%E9%87%91&labelColor=1e80ff&logo=juejin&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://juejin.cn/user/2524134428904894)
@@ -7,6 +7,8 @@
 [![知乎](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fyi-zhi-xin-jian-luo-liao-chen-78&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://www.zhihu.com/people/yi-zhi-xin-jian-luo-liao-chen-78)
 
 <!-- ![Static Badge](https://img.shields.io/badge/Vue-vite-red) -->
+
+<a href="https://note.myltx.top"><img src="https://img.shields.io/badge/学习笔记-my" alt="Stars Badge"/></a>
 
 <div >
   <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 200px">
